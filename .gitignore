@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+commit.bash
+/commit.bash
 # C extensions
 *.so
 
