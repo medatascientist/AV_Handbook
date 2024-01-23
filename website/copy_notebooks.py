@@ -6,10 +6,6 @@ creates pages which wrap them and link together.
 This script copies all notebooks from the book into the website directory, and
 creates pages which wrap them and link together.
 """
-"""
-This script copies all notebooks from the book into the website directory, and
-creates pages which wrap them and link together.
-"""
 import os
 import nbformat
 import shutil
