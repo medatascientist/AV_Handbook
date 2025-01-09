@@ -31,7 +31,7 @@ def add_book_info():
             print('- inserting comment for {0}'.format(nb_name))
             nb.cells.insert(0, new_markdown_cell(BOOK_INFO))
         nbformat.write(nb, nb_file)
-
+#
 
 if __name__ == '__main__':
     add_book_info()
